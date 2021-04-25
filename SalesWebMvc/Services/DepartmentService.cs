@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using SalesWebMvc.Data;
 using SalesWebMvc.Models.ViewModels;
 using Microsoft.EntityFrameworkCore;
+using SalesWebMvc.Models;
 
 namespace SalesWebMvc.Services
 {

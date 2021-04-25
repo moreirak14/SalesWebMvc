@@ -1,8 +1,9 @@
 ﻿using System.Collections.Generic;
 using System;
 using System.Linq;
+using SalesWebMvc.Models.Enums;
 
-namespace SalesWebMvc.Models.ViewModels
+namespace SalesWebMvc.Models
 {
     public class Department
     {
